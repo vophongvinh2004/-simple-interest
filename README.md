@@ -1,2 +1,1 @@
-# -simple-interest
-A simple interest calculator script in Bash.
+This is just a task of my coursera's course
