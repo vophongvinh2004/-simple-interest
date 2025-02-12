@@ -1,0 +1,2 @@
+# -simple-interest
+A simple interest calculator script in Bash.
